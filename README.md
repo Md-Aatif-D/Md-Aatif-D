@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mohammed Aatif. D
-📍 Based in Bengaluru, India
-🎓 BCA student @ Al-Ameen Institute of Information Sciences
-📊 Passionate about turning messy data into meaningful insights
-🛠️ Skilled in Python, Excel, Jupyter Notebook & Dashboard Design
-💼 Ex-Data Analyst Intern @ SkillCraft Technology
-🔍 Love exploring datasets, spotting patterns & telling stories through data
-🌱 Currently leveling up in Machine Learning & SQL
-🤝 Open to collaborations, opportunities & chai-fueled data convos ☕
+📍 Based in Bengaluru, India<br>
+🎓 BCA student @ Al-Ameen Institute of Information Sciences<br>
+📊 Passionate about turning messy data into meaningful insights<br>
+🛠️ Skilled in Python, Excel, Jupyter Notebook & Dashboard Design<br>
+💼 Ex-Data Analyst Intern @ SkillCraft Technology<br>
+🔍 Love exploring datasets, spotting patterns & telling stories through data<br>
+🌱 Currently leveling up in Machine Learning & SQL<br>
+🤝 Open to collaborations, opportunities & chai-fueled data convos ☕<br>
 
 
 ## 🌐 Socials:
